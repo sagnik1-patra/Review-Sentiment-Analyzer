@@ -1,0 +1,129 @@
+{
+  "sentiment_distribution": {
+    "positive": 306368,
+    "negative": 56958,
+    "neutral": 29715
+  },
+  "top_products_hidden_issues": [
+    {
+      "productID": "B0001CXRMK",
+      "avg_rating": 4.0,
+      "n_reviews": 10,
+      "neg_frac": 0.3
+    },
+    {
+      "productID": "B001EO5Y6Q",
+      "avg_rating": 4.0,
+      "n_reviews": 10,
+      "neg_frac": 0.3
+    },
+    {
+      "productID": "B0045S3WR6",
+      "avg_rating": 4.0,
+      "n_reviews": 10,
+      "neg_frac": 0.3
+    },
+    {
+      "productID": "B00004RBDW",
+      "avg_rating": 4.0,
+      "n_reviews": 31,
+      "neg_frac": 0.2903225806451613
+    },
+    {
+      "productID": "B001BOTDL6",
+      "avg_rating": 4.071428571428571,
+      "n_reviews": 14,
+      "neg_frac": 0.2857142857142857
+    },
+    {
+      "productID": "B0048KFVMU",
+      "avg_rating": 4.0,
+      "n_reviews": 14,
+      "neg_frac": 0.2857142857142857
+    },
+    {
+      "productID": "B004CSGRS0",
+      "avg_rating": 4.0,
+      "n_reviews": 14,
+      "neg_frac": 0.2857142857142857
+    },
+    {
+      "productID": "B003VZBGIG",
+      "avg_rating": 4.0,
+      "n_reviews": 18,
+      "neg_frac": 0.2777777777777778
+    },
+    {
+      "productID": "B0002J5FMC",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B000CSNM6Y",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B000F4F96Q",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B000GFYRI0",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B000MBZGC4",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B000V1RBSC",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B000WL39JQ",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B0017OAUBC",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B001EQ51CQ",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B001G5ORLG",
+      "avg_rating": 4.090909090909091,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B002TIR3BU",
+      "avg_rating": 4.090909090909091,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    },
+    {
+      "productID": "B003GADAN0",
+      "avg_rating": 4.0,
+      "n_reviews": 11,
+      "neg_frac": 0.2727272727272727
+    }
+  ]
+}

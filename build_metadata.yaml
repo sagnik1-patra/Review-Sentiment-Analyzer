@@ -1,0 +1,49 @@
+inputs:
+  sqlite: C:\Users\NXTWAVE\Downloads\Review Sentiment Analyzer\archive\database.sqlite
+  csv: C:\Users\NXTWAVE\Downloads\Review Sentiment Analyzer\archive\Reviews.csv
+  hashes: C:\Users\NXTWAVE\Downloads\Review Sentiment Analyzer\archive\hashes.txt
+schema:
+- reviewText
+- rating
+- productID
+- userID
+- summary
+- time
+- _source_table
+- cleanText
+- hash
+- label
+counts:
+  rows: 393041
+  labels:
+    positive: 306368
+    negative: 56958
+    neutral: 29715
+model: TFIDF+LogisticRegression
+metrics:
+  negative:
+    precision: 0.7708390395325482
+    recall: 0.7411341292134831
+    f1-score: 0.7556947863056612
+    support: 11392.0
+  neutral:
+    precision: 0.48177676537585423
+    recall: 0.2847046945986875
+    f1-score: 0.3579058699101005
+    support: 5943.0
+  positive:
+    precision: 0.9236873285108506
+    recall: 0.9669517250383524
+    f1-score: 0.9448245068490966
+    support: 61274.0
+  accuracy: 0.882647025149792
+  macro avg:
+    precision: 0.7254343778064176
+    recall: 0.6642635162835077
+    f1-score: 0.6861417210216194
+    support: 78609.0
+  weighted avg:
+    precision: 0.8681272503422934
+    recall: 0.882647025149792
+    f1-score: 0.8730436263422936
+    support: 78609.0
